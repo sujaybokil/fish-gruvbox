@@ -14,7 +14,7 @@ set -l blue 83a598
 set -g fish_color_normal $foreground
 set -g fish_color_command $cyan
 set -g fish_color_keyword $blue
-set -g fish_color_quote $green
+set -g fish_color_quote $yellow
 set -g fish_color_redirection $foreground
 set -g fish_color_end $orange
 set -g fish_color_error $red
@@ -22,7 +22,7 @@ set -g fish_color_param $purple
 set -g fish_color_comment $comment
 set -g fish_color_selection --background=$selection
 set -g fish_color_search_match --background=$selection
-set -g fish_color_operator $yellow
+set -g fish_color_operator $green
 set -g fish_color_escape $blue
 set -g fish_color_autosuggestion $comment
 
