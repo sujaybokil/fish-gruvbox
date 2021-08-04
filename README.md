@@ -2,7 +2,6 @@
 
 > The best colorscheme known to man for [friendly interactive shell (fish)](http://fishshell.com)
 
-![Screenshot](./screenshot.png)
 
 ## Install
 
