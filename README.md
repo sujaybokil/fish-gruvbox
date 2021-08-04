@@ -16,7 +16,11 @@ fisher install https://github.com/sujaybokil/fish-gruvbox
 
 ## Team
 
-This theme is just a fork of [dracula/fish](https://github.com/dracula/fish) with colours changed swapped for the gruvbox theme
+This theme is just a lazy fork of [dracula/fish](https://github.com/dracula/fish) with colours swapped for the gruvbox theme
+
+### Note 
+
+The colors are just swapped from the original Dracula fork and they are not set to what actual semantic highlights in gruvbox would look like. For example, dracula uses yellow colour for strings, so this theme uses the same but it uses the yellow from Gruvbox instead. If you want to update the theme with proper gruvbox colors, please submit a PR.
 
 ## License
 
