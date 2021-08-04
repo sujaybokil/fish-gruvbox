@@ -1,6 +1,7 @@
 # Gruvbox Theme for [Fish](http://fishshell.com)
 
 > The best colorscheme known to man for [friendly interactive shell (fish)](http://fishshell.com)
+> This theme is just a lazy fork of [dracula/fish](https://github.com/dracula/fish) with colours swapped for the gruvbox theme
 
 
 ## Install
@@ -14,9 +15,6 @@ omf install https://github.com/sujaybokil/fish-gruvbox
 fisher install https://github.com/sujaybokil/fish-gruvbox
 ```
 
-## Team
-
-This theme is just a lazy fork of [dracula/fish](https://github.com/dracula/fish) with colours swapped for the gruvbox theme
 
 ### Note 
 
