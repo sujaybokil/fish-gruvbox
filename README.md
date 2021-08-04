@@ -1,6 +1,6 @@
-# Gruvbox for [Fish](http://fishshell.com)
+# Gruvbox Theme for [Fish](http://fishshell.com)
 
-> A dark theme for [friendly interactive shell (fish)](http://fishshell.com)
+> The best colorscheme known to man for [friendly interactive shell (fish)](http://fishshell.com)
 
 ![Screenshot](./screenshot.png)
 
